@@ -1,0 +1,22 @@
+# google-opt-out-plugin MULTIPLE ISSUES
+
+Update Advertising Cookie Opt-out for Firefox 4 and greater
+"Firefox prevented this from downloading because it is not compatibke with 
+firefox 32.0.3."
+"Safari not supported"
+"not installable on Android tablet Prestigio"
+
+FIX
+http://storage.googleapis.com/google-code-attachments/google-opt-out-plugin/issue-15/comment-0/install.rdf.patch
+Allow Plugin to be installed under Firefox 5.0.*
+
+Or install addons from following links
+
+Available for Microsoft Internet Explorer 8-11, Google Chrome, Mozilla Firefox, Apple Safari and Opera
+https://tools.google.com/dlpage/gaoptout/eula.html
+
+Mozilla
+https://addons.mozilla.org/en-US/firefox/addon/interest-advertising-opt-out/?src=userprofile
+
+Chrome
+https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en
